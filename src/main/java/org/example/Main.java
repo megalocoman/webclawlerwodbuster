@@ -11,7 +11,7 @@ import java.io.IOException;
 public class Main {
     public static void main(String[] args) throws IOException {
 
-        String cookie = "1dMLJ108vs8cs5isqwXA2CVADUxUBkNBySt9xaWqa2KCtkEUrPzGMOWLlOn8DUdHSFu-ftDbYXkgIRKsmFjOjSP_7un_dKxhdg243yEoe6_q0f4UWX1Jlwp6kbmpw31YBDZ48ql5m5a77ilbg4uA9EnTClsXUUWFxixVsa5qtNaYm-v2eBH4UNMvM3vib0YqAKlQ7YQWHn36ssESvLXdBC1foSsf7ki8CZq78TEBkOkj9fj1BgqNvOXkca0s4NeZdGiukplkiF7qXI3famKeN5iupLlHSPYZCvhJf6BQiolaN7TnIWbEagZqPejxGssRRwjHf4rE1J8jY-OF0Cxtd3HnEP7aRMqUd8A3r8_zZ9AdzQQ5bwHNfJJrbUsMv8PMp9W4FvVI6jlWwAhPJKO4MGD8jveMxyzKnAjszwj_uRDf_GOwnnas67FKdVKHnEk6tBQUI4UaqDbmlp4OIGfiIW7ZCmz6vFP3FMRt-Jqcg6dNH8hRs0zPmTkhZX0BZHyj";
+        String cookie = "change with authcookie";
         String urlBase = "https://fenrirbox.wodbuster.com";
         String urlWeight = "/benchmarks/weights.aspx";
 
